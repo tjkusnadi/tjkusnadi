@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**tjkusnadi/tjkusnadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my github page!
 
-Here are some ideas to get you started:
+I'm a software engineer, mostly work on backend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I live in Jakarta, Indonesia!
+
+### Technology
+![](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+
+![](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
+
+![](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white)
+
+![](https://img.shields.io/badge/go-%2300ADD8.svg?logo=go&logoColor=white)
+
+### 
