@@ -4,7 +4,7 @@ Welcome to my github page!
 
 I'm a software engineer, mostly work on backend.
 
-I'm exploring elixir in my free time. Feel free to checkout my elixir repo!
+I'm exploring deno in my free time. Feel free to checkout my deno repo!
 
 ### Technology
 ![](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
